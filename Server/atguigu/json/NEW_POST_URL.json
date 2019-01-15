@@ -1,0 +1,99 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": [
+        {
+            "add_time": "1478935514",
+            "avatar": "user_icon01.png",
+            "comment_list": [
+                "这评分计算方式有点迷，我按照自己的公式，打分是90.2",
+                "看起来不错，还没试过此款噶玛兰。"
+            ],
+            "comments": "12",
+            "figure": "/ugc/post/1547277211.png",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "1",
+            "post_id": "2646",
+            "saying": "会有种浓郁的巧克力味加坚果味。",
+            "user_id": "261219",
+            "username": "farewell66"
+        },
+        {
+            "add_time": "1478926966",
+            "avatar": "/user_icon01.png",
+            "comment_list": [
+            
+            ],
+            "comments": "16",
+            "figure": "/ugc/post/1547277166.png",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "12",
+            "post_id": "2645",
+            "saying": "刚开始喝的时候，就觉得入口很顺，超浓郁的雪梨味，让人会慢慢的沉醉在酒杯当中",
+            "user_id": "13956",
+            "username": "礿尣SAMA"
+        },
+        {
+            "add_time": "1478924129",
+            "avatar": "/user_icon01.png",
+            "comment_list": [
+               "这评分计算方式有点迷，我按照自己的公式，打分是90.2",
+                "看起来不错，还没试过此款噶玛兰。",
+                "这评分计算方式有点迷，我按照自己的公式，打分是90.2",
+                "看起来不错，还没试过此款噶玛兰。"
+            ],
+            "comments": "7",
+            "figure": "/ugc/post/1547277184.png",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "12",
+            "post_id": "2644",
+            "saying": "以这个年份的雪莉桶，我觉得已经超出它的精细度",
+            "user_id": "527824",
+            "username": "霞"
+        },
+        {
+            "add_time": "1478921801",
+            "avatar": "/user_icon01.png",
+            "comment_list": [
+                "这评分计算方式有点迷，我按照自己的公式，打分是90.2",
+                "看起来不错，还没试过此款噶玛兰。"
+            ],
+            "comments": "10",
+            "figure": "/ugc/post/1547277166.png",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "8",
+            "post_id": "2643",
+            "saying": "刚开始喝的时候，就觉得入口很顺，超浓郁的雪梨味，让人会慢慢的沉醉在酒杯当中",
+            "user_id": "257648",
+            "username": "木"
+        },
+        {
+            "add_time": "1478921533",
+            "avatar": "/user_icon01.png",
+            "comment_list": [],
+            "comments": "98",
+            "figure": "/ugc/post/1547277184.png",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "100",
+            "post_id": "2642",
+            "saying": "入口是瞬间溢满口腔的冲击式的口感，属于典型的雪莉桶，非冷凝过滤，桶强的风格。果干（尤其风干葡萄干）、香料、太妃糖、黑巧克力、浓烟气，是没有分次序的扑面而来，需要在中段到尾端才会反映来回味。",
+            "user_id": "55746",
+            "username": "PaleCrow"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": {
+        "act_info": [
+            {
+                "icon_url": "/operation/img/1478169868/act_01.jpg",
+                "name": "尚硅谷福利专区之111.1专区",
+                "url": "/oper/1478169868app.html"
+            },
+            {
+                "icon_url": "/operation/img/1478763176/act_02.jpg",
+                "name": "尚硅谷福利专区 黄金狗粮限量11.1元抢",
+                "url": "/oper/1478763176app.html"
+            }
+        ],
+        "banner_info": [
+            {
+                "image": "/zw1478770583834.png",
+                "option": 3,
+                "type": 0,
+                "value": {
+                    "url": "/act20161111?cyc_app=1"
+                }
+            },
+            {
+                "image": "/zw1478770583835.png",
+                "option": 2,
+                "type": 0,
+                "value": {
+                    "url": "/act20161111?cyc_app=1"
+                }
+            },
+            {
+                "image": "/zw1478770583836.png",
+                "option": 1,
+                "type": 0,
+                "value": {
+                    "url": "/act20161111?cyc_app=1"
+                }
+            }
+        ],
+        "channel_info": [
+            {
+                "channel_name": "拍卖",
+                "image": "/app/img/menu-cyc01.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "8"
+                }
+            },
+            {
+                "channel_name": "商城",
+                "image": "/app/img/menu-game01.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "4"
+                }
+            },
+            {
+                "channel_name": "分享",
+                "image": "/app/img/menu-carttoon01.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "3"
+                }
+            },
+            {
+                "channel_name": "专用瓶",
+                "image": "/app/img/menu-cosplay01.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "5"
+                }
+            }
+        ],
+        "hot_info": [
+            {
+                "cover_price": "42100.00",
+                "figure": "/hot_1477984921265.jpg",
+                "name": "山崎 25yo",
+                "product_id": "9356"
+            },
+            {
+                "cover_price": "17300.00",
+                "figure": "/hot_1477984931882.jpg",
+                "name": "乐加维林 1985-2007 21yo",
+                "product_id": "10391"
+            },
+            {
+                "cover_price": "2500.00",
+                "figure": "/hot_1452161899947.jpg",
+                "name": "云顶 10yo",
+                "product_id": "3831"
+            },
+            {
+                "cover_price": "1999.00",
+                "figure": "/hot_1447232577216.jpg",
+                "name": "云顶 C.V.绿蓟",
+                "product_id": "2691"
+            },
+            {
+                "cover_price": "3300.00",
+                "figure": "/hot_1474370572805.jpg",
+                "name": "欧摩 12yo",
+                "product_id": "9414"
+            },
+            {
+                "cover_price": "28888.00",
+                "figure": "/hot_1465268743242.jpg",
+                "name": "【麦卡伦 30yo fine oak",
+                "product_id": "6869"
+            },
+            {
+                "cover_price": "5500.00",
+                "figure": "/hot_1477360350123.png",
+                "name": "响 音乐艺术系列 套装",
+                "product_id": "10136"
+            },
+            {
+                "cover_price": "32954.00",
+                "figure": "/hot_1477360350124.png",
+                "name": "山崎 12yo 音乐艺术系列",
+                "product_id": "7752"
+            }
+        ],
+        "recommend_info": [
+            {
+                "cover_price": "13812.00",
+                "figure": "/supplier/zw101.jpg",
+                "name": "欧肯特轩32年1979-2012雪莉桶",
+                "product_id": "10659"
+            },
+             {
+                "cover_price": "13810.00",
+                "figure": "/supplier/zw102.jpg",
+                "name": "山崎蒸馏限定版金花顶(4支组)",
+                "product_id": "10660"
+            },
+            {
+                "cover_price": "1385.00",
+                "figure": "/supplier/zw103.jpg",
+                "name": "拉弗格10年2011原酒批次3（6支组）",
+                "product_id": "10658"
+            },
+            {
+                "cover_price": "1321.00",
+                "figure": "/supplier/zw104.jpg",
+                "name": "台湾藏香馆-安平剑狮三部曲",
+                "product_id": "10657"
+            },
+            {
+                "cover_price": "1918.00",
+                "figure": "/supplier/zw105.jpg",
+                "name": "邑极摩2007-2018原酒星座系列",
+                "product_id": "10656"
+            },
+            {
+                "cover_price": "1178.00",
+                "figure": "/supplier/zw106.jpg",
+                "name": "Glenscoma云顶25年1990-2016",
+                "product_id": "10655"
+            }
+        ],
+        "seckill_info": {
+            "end_time": "1479052800",
+            "list": [
+                {
+                    "cover_price": "42000 ",
+                    "figure": "/seckill_1478489000522.jpg",
+                    "name": "麦卡伦1824大师系列璀璨",
+                    "origin_price": "41000 ",
+                    "product_id": "7100"
+                },
+                {
+                    "cover_price": "22000",
+                    "figure": "/seckill_1478489035167.jpg",
+                    "name": "麦卡伦1824大师系列耀钻",
+                    "origin_price": "20000",
+                    "product_id": "7101"
+                },
+                {
+                    "cover_price": "2250",
+                    "figure": "/seckill_1478489878735.jpg",
+                    "name": "麦卡伦1824大师系列晖钻",
+                    "origin_price": "2200",
+                    "product_id": "7102"
+                },
+                {
+                    "cover_price": "4900",
+                    "figure": "/seckill_1475045805488.jpg",
+                    "name": "麦卡伦 皓钻 1824大师系列",
+                    "origin_price": "4800",
+                    "product_id": "9593"
+                },
+                {
+                    "cover_price": "590",
+                    "figure": "/seckill_1478678511949.jpg",
+                    "name": "林可伍德15年 高登&麦克菲尔 ",
+                    "origin_price": "500",
+                    "product_id": "10536"
+                },
+                {
+                    "cover_price": "3900",
+                    "figure": "/seckill_1438680345318.jpg",
+                    "name": "黑蛇2008米尔顿道夫定制单桶",
+                    "origin_price": "3500",
+                    "product_id": "555"
+                }
+            ],
+            "start_time": "1478772000"
+        }
+    }
+}

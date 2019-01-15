@@ -1,0 +1,102 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": [
+        {
+            "add_time": "1478848148",
+            "avatar": "/user_icon02.png",
+            "comment_list": [
+                
+            ],
+            "comments": "1",
+            "figure": "/ugc/user/1547280661.png",
+            "is_essence": "1",
+            "is_hot": "1",
+            "is_like": "0",
+            "is_top": "1",
+            "likes": "2",
+            "post_id": "2616",
+            "saying": "老铁分享——老版班瑞克16年斯佩塞之心",
+            "user_id": "246715",
+            "username": "喝了才是自己的！"
+        },
+        {
+            "add_time": "1478681505",
+            "avatar": "/user_icon02.png",
+            "comment_list": [
+            
+            ],
+            "comments": "5",
+            "figure": "/ugc/user/1547280681.png",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "1",
+            "likes": "3",
+            "post_id": "2602",
+            "saying": "大灰狼-KAVALAN波尔多一级庄葡萄酒桶分享",
+            "user_id": "90437",
+            "username": "大灰狼"
+        },
+        {
+            "add_time": "1475140120",
+            "avatar": "/user_icon02.png",
+            "comment_list": [
+               
+            ],
+            "comments": "11",
+            "figure": "/ugc/user/1547280698.png",
+            "is_essence": "1",
+            "is_hot": "1",
+            "is_like": "0",
+            "is_top": "1",
+            "likes": "18",
+            "post_id": "2345",
+            "saying": "大灰狼-高原骑士21年 停产47.5%版本",
+            "user_id": "90437",
+            "username": "大灰狼"
+        },
+        {
+            "add_time": "1474625262",
+            "avatar": "/user_icon02.png",
+            "comment_list": [
+                "啦啦",
+                "啦啦",
+                "吃土快乐，祝我快乐",
+                "猝不及防一口土……",
+                "吃土愉快",
+                "啊啊啊啊啊啊啊疯掉了！！！！！猝不及防啊啊啊"
+            ],
+            "comments": "7",
+            "figure": "/ugc/user/1547280698.png",
+            "is_essence": "1",
+            "is_hot": "1",
+            "is_like": "0",
+            "is_top": "1",
+            "likes": "15",
+            "post_id": "2313",
+            "saying": "噶玛兰S12雪莉桶强原酒+波本B08桶强原酒、各30ML",
+            "user_id": "90437",
+            "username": "喝了才是自己的"
+        },
+        {
+            "add_time": "1473674779",
+            "avatar": "/user_icon02.png",
+            "comment_list": [
+                "第二！",
+                "我第一～～哈哈哈～～沙发～"
+            ],
+            "comments": "2",
+            "figure": "/ugc/user/1547280661.png",
+            "is_essence": "1",
+            "is_hot": "1",
+            "is_like": "0",
+            "is_top": "1",
+            "likes": "22",
+            "post_id": "2199",
+            "saying": "兰杰25年 圣经95高分 两份装30Ml小黑瓶",
+            "user_id": "90437",
+            "username": "醇麦会刘玺"
+        }
+    ]
+}
